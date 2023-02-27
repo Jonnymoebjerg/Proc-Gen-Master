@@ -1,7 +1,9 @@
 # Procedrual Generation Master
-Made by: Sebastian Lague
-URP Shader Graph by: 
-Maintained by me.
+
+Credits:
+* Made by: Sebastian Lague
+* URP Shader Graph by: 
+* Maintained by me.
 
 
 # Important!
